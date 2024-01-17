@@ -76,17 +76,11 @@ Some of the features we provide are:
 
 ## 🔽 Download
 
-You can get ReVanced Manager by downloading from [ReVanced site](https://revanced.app/download) or [GitHub releases](https://github.com/ReVanced/revanced-manager/releases).
-
-## 📚 Everything else
 
 ### 📄 Documentation
 
 Documentation on how to use the application is available [here](/docs/README.md).
 
-### 👋 Contributing
-
-Thank you for considering contributing to ReVanced Manager, you can find the contribution guidelines [here](/CONTRIBUTING.md).
 
 ### 🔴 Issues
 
