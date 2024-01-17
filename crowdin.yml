@@ -1,0 +1,4 @@
+preserve_hierarchy: 1
+files:
+  - source: /assets/i18n/en_US.json
+    translation: /assets/i18n/%locale_with_underscore%.json
